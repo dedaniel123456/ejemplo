@@ -1,3 +1,14 @@
 # ejemplo
 un ejemplo
-verificacion de funcion de editar 
+
+
+EJEMPLO DE COMO USAR GITHUB
+
+
+
+:v 
+
+
+
+
+
